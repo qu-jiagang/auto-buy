@@ -1,0 +1,2 @@
+playwright>=1.40
+ntplib>=0.4
